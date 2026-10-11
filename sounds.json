@@ -1,0 +1,582 @@
+{
+  "portal_teleport": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:portal_teleport",
+        "volume": 0.6,
+        "stream": false
+      }
+    ]
+  },
+  "gun_fire": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:gun_fire",
+        "stream": false
+      }
+    ]
+  },
+  "plasma_scorch": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:plasma_scorch",
+        "stream": false
+      }
+    ]
+  },
+  "portal_open": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:portal_open",
+        "stream": false
+      }
+    ]
+  },
+  "portal_close": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:portal_close",
+        "stream": false
+      }
+    ]
+  },
+  "menu_open": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:menu_open",
+        "stream": false
+      }
+    ]
+  },
+  "gun_malfunction": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:gun_malfunction",
+        "stream": false
+      }
+    ]
+  },
+  "gun_empty": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:gun_empty",
+        "stream": false
+      }
+    ]
+  },
+  "ui_press": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:ui_press",
+        "stream": false
+      }
+    ]
+  },
+  "bulb_insert": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:bulb_insert",
+        "stream": false
+      }
+    ]
+  },
+  "bulb_eject": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:bulb_eject",
+        "stream": false
+      }
+    ]
+  },
+  "ui_dial": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:ui_dial",
+        "stream": false
+      }
+    ]
+  },
+  "explosion_wistle": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:explosion_wistle",
+        "stream": false
+      }
+    ]
+  },
+  "blender_grind": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:blender_grind",
+        "stream": false
+      }
+    ]
+  },
+  "meat_squelch": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:meat_squelch",
+        "stream": false
+      }
+    ]
+  },
+  "blood_splash": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "ricks_stuff:blood_splash",
+        "stream": false
+      }
+    ]
+  },
+  "clone_print_loop": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:clone_print_loop",
+        "stream": false
+      }
+    ]
+  },
+  "clone_ready": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:clone_ready",
+        "stream": false
+      }
+    ]
+  },
+  "capsule_shatter": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:capsule_shatter",
+        "stream": false
+      }
+    ]
+  },
+  "capsule_repair": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:capsule_repair",
+        "stream": false
+      }
+    ]
+  },
+  "bomb_beep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ricks_stuff:bomb_beep",
+        "stream": false
+      }
+    ]
+  },
+  "bomb_charge": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ricks_stuff:bomb_charge",
+        "stream": false
+      }
+    ]
+  },
+  "bomb_explode": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ricks_stuff:bomb_explode",
+        "stream": false
+      }
+    ]
+  },
+  "anti_portal_hum": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:anti_portal_hum",
+        "stream": false
+      }
+    ]
+  },
+  "anti_portal_activate": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:anti_portal_activate",
+        "stream": false
+      }
+    ]
+  },
+  "anti_portal_deactivate": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:anti_portal_deactivate",
+        "stream": false
+      }
+    ]
+  },
+  "anti_portal_deflect": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "ricks_stuff:anti_portal_deflect",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_engine": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_engine",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_engine",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_idle",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_idle",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_startup": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_startup",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_startup",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_shutdown": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_shutdown",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_shutdown",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_hover": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_hover",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_hover",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_switch": {
+    "category": "player",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_switch",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_switch",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_land": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_land",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_land",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_bump": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_bump",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_bump",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_crash": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_crash",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_crash",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_low_energy": {
+    "category": "player",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_low_energy",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_low_energy",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_alarm": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_alarm",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_alarm",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_hurt": {
+    "category": "player",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_hurt",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_warp_charge": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_warp_charge",
+    "sounds": [
+      {
+        "name": "ricks_stuff:bomb_charge",
+        "volume": 0.85,
+        "pitch": 0.8,
+        "stream": false
+      },
+      {
+        "name": "ricks_stuff:space_cruiser_startup",
+        "volume": 1.0,
+        "pitch": 1.2,
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_reality_crack": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_reality_crack",
+    "sounds": [
+      {
+        "name": "ricks_stuff:capsule_shatter",
+        "volume": 1.0,
+        "pitch": 1.4,
+        "stream": false
+      },
+      {
+        "name": "ricks_stuff:plasma_scorch",
+        "volume": 0.8,
+        "pitch": 1.6,
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_warp_loop": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_warp_loop",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_engine",
+        "volume": 0.9,
+        "pitch": 1.3,
+        "stream": false
+      },
+      {
+        "name": "ricks_stuff:portal_teleport",
+        "volume": 0.7,
+        "pitch": 0.9,
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_reality_shatter": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_reality_shatter",
+    "sounds": [
+      {
+        "name": "ricks_stuff:capsule_shatter",
+        "volume": 1.0,
+        "pitch": 0.75,
+        "stream": false
+      },
+      {
+        "name": "ricks_stuff:bomb_explode",
+        "volume": 1.0,
+        "pitch": 1.1,
+        "stream": false
+      }
+    ]
+  },
+  "space_cruiser_warp_exit": {
+    "category": "neutral",
+    "subtitle": "subtitles.ricks_stuff.space_cruiser_warp_exit",
+    "sounds": [
+      {
+        "name": "ricks_stuff:gun_fire",
+        "volume": 0.9,
+        "pitch": 0.7,
+        "stream": false
+      },
+      {
+        "name": "ricks_stuff:space_cruiser_engine",
+        "volume": 1.0,
+        "pitch": 1.4,
+        "stream": false
+      }
+    ]
+  },
+  "omega_device_idle": {
+    "category": "block",
+    "subtitle": "subtitles.ricks_stuff.omega_device_idle",
+    "attenuation_distance": 128,
+    "sounds": [
+      {
+        "name": "ricks_stuff:omega_device_idle",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "attenuation_distance": 128,
+        "stream": false
+      }
+    ]
+  },
+  "omega_device_start": {
+    "category": "block",
+    "subtitle": "subtitles.ricks_stuff.omega_device_start",
+    "attenuation_distance": 256,
+    "sounds": [
+      {
+        "name": "ricks_stuff:omega_device_warmup",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "attenuation_distance": 256,
+        "stream": false
+      }
+    ]
+  },
+  "omega_device_warmup": {
+    "category": "block",
+    "subtitle": "subtitles.ricks_stuff.omega_device_start",
+    "attenuation_distance": 256,
+    "sounds": [
+      {
+        "name": "ricks_stuff:omega_device_warmup",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "attenuation_distance": 256,
+        "stream": false
+      }
+    ]
+  },
+  "omega_device_charge": {
+    "category": "block",
+    "subtitle": "subtitles.ricks_stuff.omega_device_charge",
+    "sounds": [
+      {
+        "name": "ricks_stuff:bomb_charge",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "stream": false
+      }
+    ]
+  },
+  "omega_device_pumping": {
+    "category": "block",
+    "subtitle": "subtitles.ricks_stuff.omega_device_pumping",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_warp_loop",
+        "volume": 1.0,
+        "pitch": 1.5,
+        "stream": false
+      }
+    ]
+  },
+  "omega_device_erase": {
+    "category": "block",
+    "subtitle": "subtitles.ricks_stuff.omega_device_erase",
+    "sounds": [
+      {
+        "name": "ricks_stuff:omega_device_erase",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "attenuation_distance": 256,
+        "stream": false
+      }
+    ]
+  },
+  "omega_device_cooldown": {
+    "category": "block",
+    "subtitle": "subtitles.ricks_stuff.omega_device_cooldown",
+    "sounds": [
+      {
+        "name": "ricks_stuff:space_cruiser_shutdown",
+        "volume": 1.0,
+        "pitch": 0.7,
+        "stream": false
+      }
+    ]
+  },
+  "omega_device_ambient_loop": {
+    "category": "block",
+    "subtitle": "subtitles.ricks_stuff.omega_device_ambient_loop",
+    "attenuation_distance": 128,
+    "sounds": [
+      {
+        "name": "ricks_stuff:omega_device_idle",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "attenuation_distance": 128,
+        "stream": false
+      }
+    ]
+  },
+  "omega_device_spark": {
+    "category": "block",
+    "subtitle": "subtitles.ricks_stuff.omega_device_ambient_loop",
+    "attenuation_distance": 48,
+    "sounds": [
+      {
+        "name": "ricks_stuff:omega_spark_1",
+        "volume": 0.45,
+        "pitch": 1.0,
+        "attenuation_distance": 48,
+        "stream": false
+      },
+      {
+        "name": "ricks_stuff:omega_spark_2",
+        "volume": 0.45,
+        "pitch": 1.0,
+        "attenuation_distance": 48,
+        "stream": false
+      }
+    ]
+  }
+}

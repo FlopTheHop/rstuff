@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ricks_stuff:block/portal_fluid_colorizer"
+    },
+    "facing=east": {
+      "model": "ricks_stuff:block/portal_fluid_colorizer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ricks_stuff:block/portal_fluid_colorizer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ricks_stuff:block/portal_fluid_colorizer",
+      "y": 270
+    }
+  }
+}
