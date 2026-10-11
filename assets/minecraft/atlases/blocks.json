@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "entity/omega_device",
+      "prefix": "entity/omega_device/"
+    }
+  ]
+}

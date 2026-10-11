@@ -1,0 +1,211 @@
+{
+  "gui_light": "front",
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    32,
+    32
+  ],
+  "textures": {
+    "0": "ricks_stuff:item/rick_portal_gun",
+    "particle": "ricks_stuff:item/rick_portal_gun"
+  },
+  "elements": [
+    {
+      "name": "Bulb",
+      "from": [
+        4,
+        3,
+        7.6
+      ],
+      "to": [
+        4.9,
+        4.4,
+        8.4
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          4,
+          3,
+          7
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            4.5,
+            3.4375,
+            5.1875
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4.5,
+            4.40625,
+            5.1875
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            4.5,
+            3.9375,
+            5.1875
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            4.5,
+            4.90625,
+            5.1875
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            5.4375,
+            4.90625,
+            5,
+            4.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5.4375,
+            5,
+            5,
+            5.40625
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        2.13,
+        87.38,
+        20.95
+      ],
+      "translation": [
+        0,
+        6,
+        -0.25
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        117.5,
+        -86.3,
+        101
+      ],
+      "translation": [
+        0,
+        5.75,
+        -0.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        74,
+        0
+      ],
+      "translation": [
+        -2.5,
+        11.5,
+        -0.25
+      ],
+      "scale": [
+        1.56,
+        1.58,
+        1.58
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        -93,
+        0
+      ],
+      "translation": [
+        -3.25,
+        10.25,
+        -1.25
+      ],
+      "scale": [
+        1.49,
+        1.49,
+        1.49
+      ]
+    },
+    "ground": {
+      "translation": [
+        3.75,
+        4.75,
+        0.5
+      ]
+    },
+    "gui": {
+      "rotation": [
+        43.5,
+        42.75,
+        0
+      ],
+      "translation": [
+        10,
+        18.5,
+        0
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        11.5,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -2.67,
+        -2.75,
+        -1.24
+      ],
+      "translation": [
+        6.25,
+        7.75,
+        -1
+      ],
+      "scale": [
+        1.49,
+        1.49,
+        1.49
+      ]
+    },
+    "on_shelf": {
+      "translation": [
+        4.75,
+        0,
+        0
+      ]
+    }
+  },
+  "groups": [
+    0
+  ]
+}

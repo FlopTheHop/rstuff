@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "particle": "ricks_stuff:block/portal_fluid_colorizer_front",
+    "bottom": "ricks_stuff:block/portal_fluid_colorizer_bottom",
+    "top": "ricks_stuff:block/portal_fluid_colorizer_top",
+    "side": "ricks_stuff:block/portal_fluid_colorizer_side",
+    "front": "ricks_stuff:block/portal_fluid_colorizer_front"
+  }
+}

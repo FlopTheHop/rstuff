@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ricks_stuff:item/dimensional_card"
+  }
+}
