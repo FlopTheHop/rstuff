@@ -1,1 +1,1 @@
-This is a mod made by ExtraTortik not me.
+This is a mod made by ExtraTortik.
