@@ -1,7 +1,0 @@
-{
-  "exhaustion": 0.1,
-  "message_id": "fish_dimension",
-  "scaling": "never",
-  "effects": "hurt",
-  "death_message_type": "default"
-}
