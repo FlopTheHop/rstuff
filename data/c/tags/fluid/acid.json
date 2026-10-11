@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ricks_stuff:real_acid",
+    "ricks_stuff:real_acid_flowing",
+    "ricks_stuff:fake_acid",
+    "ricks_stuff:fake_acid_flowing"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.ExtraTortik.ricks_stuff.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "ricks_stuff.refmap.json",
+  "mixins": [
+    "RecipeManagerMixin",
+    "ResultSlotMixin",
+    "StructurePieceMixin",
+    "StructureTemplateMixin",
+    "LootTableMixin",
+    "AbstractArrowAccessor",
+    "MobMixin",
+    "EnderDragonMixin"
+  ],
+  "client": [
+    "CameraMixin",
+    "LevelRendererMixin",
+    "ItemInHandRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

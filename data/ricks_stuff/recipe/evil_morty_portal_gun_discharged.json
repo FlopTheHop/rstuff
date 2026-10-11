@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "gng",
+    "gRD",
+    "g  "
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "R": {
+      "item": "ricks_stuff:quantum_chip"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ricks_stuff:evil_morty_portal_gun_discharged"
+  }
+}
