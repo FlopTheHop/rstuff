@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "STS",
+    "BBB"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:lightning_rod"
+    },
+    "T": {
+      "item": "ricks_stuff:tachyon_inhibitor_core"
+    },
+    "S": {
+      "item": "ricks_stuff:subquantum_resonator"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ricks_stuff:anti_portal_field_gen"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "ricks_stuff:evil_morty_portal_gun_discharged"
+    },
+    {
+      "item": "ricks_stuff:portal_fluid"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "ricks_stuff:evil_morty_portal_gun"
+  }
+}

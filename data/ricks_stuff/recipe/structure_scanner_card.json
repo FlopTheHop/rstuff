@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "EQE",
+    "DMD"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:gold_nugget"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "Q": {
+      "item": "ricks_stuff:quantum_chip"
+    },
+    "D": {
+      "item": "ricks_stuff:dark_matter_dust"
+    },
+    "M": {
+      "item": "minecraft:recovery_compass"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ricks_stuff:structure_scanner_card"
+  }
+}

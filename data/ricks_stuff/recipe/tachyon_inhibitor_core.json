@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "RIR",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "ricks_stuff:subquantum_resonator"
+    },
+    "R": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "I": {
+      "item": "ricks_stuff:quantum_isotope"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ricks_stuff:tachyon_inhibitor_core"
+  }
+}

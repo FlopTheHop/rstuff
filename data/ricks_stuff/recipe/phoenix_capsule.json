@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GQG",
+    "GTG",
+    "NRN"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "Q": {
+      "item": "ricks_stuff:quantum_isotope"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "R": {
+      "item": "minecraft:respawn_anchor"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ricks_stuff:phoenix_capsule"
+  }
+}
